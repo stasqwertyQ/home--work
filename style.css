@@ -1,0 +1,62 @@
+.coll1 {
+    background-color: aquamarine;
+    width: 60px;
+    height: 100px;
+}
+.col2 {
+    background-color: rgb(48, 179, 223);
+    width: 60px;
+    height: 100px;
+}
+
+.c-3 {
+    background-color:  rgb(90, 187, 90);
+        width: 60px;
+    height: 100px;
+}
+
+.col5 {
+    background-color: pink;
+    width: 20px;
+    height: 80px;
+}
+
+.col6 {
+    background-color: rgb(204, 88, 88);
+    width: 20px;
+    height: 80px;
+}
+
+.col7 {
+    background-color: red;
+    width: 20px;
+    height: 80px;
+}
+
+
+.col8 {
+        background-color: rgb(212, 167, 212);
+        width: 20px;
+        height: 80px;
+}
+
+.col9 {
+    background-color: rgb(196, 140, 196);
+}
+
+.col10 {
+    background-color: rgb(156, 72, 156);
+}
+
+.col11 {
+    background-color:purple;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .coll1 {
+        width: 860px;
+        height: 100px;
+    }
+}
